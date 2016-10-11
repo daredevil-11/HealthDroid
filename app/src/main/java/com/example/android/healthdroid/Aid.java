@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Created by TanmayDas on 01-10-2016.
+ * For Hackathon V2 Hack for India. 
  */
 public class Aid {
     public String head;
