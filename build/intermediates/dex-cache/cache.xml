@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tanmay\Desktop\HealthDroida\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea4351efd4558f1c43bd1784ddaf95cee55c1af7">
+        <dex dex="C:\Users\Tanmay\Desktop\HealthDroida\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d53df11d69a8309d4740ff8cff91f11255fe2036\classes.dex" />
+    </item>
+
+</items>
