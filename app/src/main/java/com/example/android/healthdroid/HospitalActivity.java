@@ -80,6 +80,7 @@ public class HospitalActivity extends AppCompatActivity implements NavigationVie
             Class activityClass = null;
             activityClass = MainActivity.class;
             intent = new Intent(this, activityClass);
+            this.finish();
             startActivity(intent);
         }
     }
@@ -120,6 +121,7 @@ public class HospitalActivity extends AppCompatActivity implements NavigationVie
 
         if(id == R.id.nav_first || id == R.id.nav_disease || id == R.id.nav_govt || id == R.id.nav_dash){
             intent = new Intent(this, activityClass);
+            this.finish();
             startActivity(intent);
 
         }
